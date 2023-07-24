@@ -8,3 +8,4 @@ With the local_auth package, developers can display a localized reason for authe
 Developers can also customize the UI and feedback during the authentication process using Flutter widgets, making the fingerprint authentication integration blend seamlessly with the overall app design.
 
 By leveraging fingerprint authentication in Flutter applications, developers can enhance the security of their apps while providing users with a more convenient and frictionless login experience. This biometric security approach not only protects sensitive data but also reduces the need for users to remember complex passwords, thereby improving user satisfaction and retention.
+![image](https://github.com/usama08/flutter_fingerprint/assets/81589519/28702ef9-18c0-462a-88f9-2cada757509c)
